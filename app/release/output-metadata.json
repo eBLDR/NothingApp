@@ -4,7 +4,7 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "com.example.nothingapp",
+  "applicationId": "com.minimalstudios.nothingapp",
   "variantName": "release",
   "elements": [
     {

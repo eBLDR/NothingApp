@@ -1,8 +1,8 @@
-package com.example.nothingapp
+package com.minimalstudios.nothingapp
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.example.nothingapp.databinding.ActivityMainBinding
+import com.minimalstudios.nothingapp.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
